@@ -26,4 +26,9 @@ let state;
 // object
 
 console.log(typeof undefined); // undefined
-console.log(typeof null); // object
+console.log(typeof null); // object 
+/*
+why it is an object?  
+-> Some says that it is the default of the js language and some says that since everything in js is an object so why not null should be. I would leave it to you to decide the reason.
+*/
+
