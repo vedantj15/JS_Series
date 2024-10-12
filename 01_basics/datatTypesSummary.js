@@ -49,7 +49,7 @@ Return type of variables in JavaScript
 
 2) Non-primitive Datatypes
        Arrays  =>  object
-       Function  =>  function
+       Function  =>  function // actually it is a object function since func is a type of object which implement [[Call]]
        Object  =>  object
 
 */
